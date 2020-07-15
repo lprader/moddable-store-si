@@ -1,0 +1,24 @@
+{
+	"tech.moddable.runmod-piu": {
+		"mods": [
+			{
+				"path": "pomodoro",
+				"author": "Shinya Ishikawa",
+				"title": "Pomodoro Timer",
+				"description": "A Pomodoro timer with Party Parrot. Pomodoro timers break work into intervals with short breaks in between to help keep you focused."
+			},
+			{
+				"path": "counter",
+				"author": "Shinya Ishikawa",
+				"title": "Counter",
+				"description": "A simple counter. Tap the A button to increment the count by 1."
+			},
+			{
+				"path": "jslogo",
+				"author": "Shinya Ishikawa",
+				"title": "Logos",
+				"description": "Tap the A button to toggle between displaying the JavaScript logo and Moddable logo."
+			},
+		]
+	}
+}

@@ -1,0 +1,13 @@
+{
+  "modules": {
+    "*": "./example"
+  },
+  "resources": {
+    "*-alpha": [
+      "./assets/js-logo"
+    ],
+    "*-mask": [
+      "./assets/moddable-logo"
+    ]
+  }
+}
