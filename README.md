@@ -2,6 +2,7 @@
 
 ## Contents
 
-- [Pomodoro timer](./pomodoro)
+- [Bongo Cat](./bongo)
 - [Counter](./counter)
 - [Logos](./jslogo)
+- [Pomodoro timer](./pomodoro)

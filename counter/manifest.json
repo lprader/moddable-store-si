@@ -4,7 +4,7 @@
   },
   "resources": {
 		"*-alpha": [
-			"../assets/fonts/OpenSans-Regular-52"
+			"./fonts/OpenSans-Regular-52"
 		]
   }
 }

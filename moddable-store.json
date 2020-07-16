@@ -19,6 +19,12 @@
 				"title": "Logos",
 				"description": "Tap the A button to toggle between displaying the JavaScript logo and Moddable logo."
 			},
+			{
+				"path": "bongo",
+				"author": "Shinya Ishikawa",
+				"title": "Bongo Cat",
+				"description": "Bongo Cat! Strike hard! Tap the A button and C button to hit the bongo, and the B button to meow."
+			},
 		]
 	}
 }

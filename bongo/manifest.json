@@ -1,0 +1,11 @@
+{
+	"modules": {
+		"*": "./example"
+	},
+	"resources": {
+		"*": [
+			"./assets/images/*",
+			"./assets/sounds/*",
+		]
+	}
+}
