@@ -37,6 +37,16 @@
 					"com.m5stack.fire"
 				]	
 			},
+			{
+				"path": "life",
+				"author": "Shinya Ishikawa",
+				"title": "Life",
+				"description": "The Game of Life by John Horton Conway",
+				"devices": [
+					"com.m5stack.fire",
+					"com.moddable.two"
+				]	
+			},
 		]
 	}
 }
