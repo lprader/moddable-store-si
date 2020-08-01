@@ -7,6 +7,7 @@
 				"title": "Pomodoro Timer",
 				"description": "A Pomodoro timer with Party Parrot. Pomodoro timers break work into intervals with short breaks in between to help keep you focused.",
 				"devices": [
+					"com.m5stack",
 					"com.m5stack.fire"
 				]			
 			},
@@ -16,6 +17,7 @@
 				"title": "Counter",
 				"description": "A simple counter. Tap the A button to increment the count by 1.",
 				"devices": [
+					"com.m5stack",
 					"com.m5stack.fire"
 				]	
 			},
@@ -25,6 +27,7 @@
 				"title": "Logos",
 				"description": "Tap the A button to toggle between displaying the JavaScript logo and Moddable logo.",
 				"devices": [
+					"com.m5stack",
 					"com.m5stack.fire"
 				]	
 			},
@@ -34,6 +37,7 @@
 				"title": "Bongo Cat",
 				"description": "Bongo Cat! Strike hard! Tap the A button and C button to hit the bongo, and the B button to meow.",
 				"devices": [
+					"com.m5stack",
 					"com.m5stack.fire"
 				]	
 			},
@@ -43,6 +47,7 @@
 				"title": "Life",
 				"description": "The Game of Life by John Horton Conway",
 				"devices": [
+					"com.m5stack",
 					"com.m5stack.fire",
 					"com.moddable.two"
 				]	
