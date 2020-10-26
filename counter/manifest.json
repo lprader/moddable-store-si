@@ -1,10 +1,10 @@
 {
-  "modules": {
-    "*": "./example"
-  },
-  "resources": {
+  	"modules": {
+    	"*": "./example"
+  	},
+  	"resources": {
 		"*-alpha": [
 			"./fonts/OpenSans-Regular-52"
 		]
-  }
+  	}
 }

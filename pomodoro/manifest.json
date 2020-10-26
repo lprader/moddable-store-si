@@ -7,7 +7,7 @@
 			"./assets/fonts/*"
 		],
     "*": [
-      "./assets/images/*",
+      "./assets/images/*"
     ]
   }
 }

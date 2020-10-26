@@ -5,7 +5,7 @@
 	"resources": {
 		"*": [
 			"./assets/images/*",
-			"./assets/sounds/*",
+			"./assets/sounds/*"
 		]
 	}
 }
